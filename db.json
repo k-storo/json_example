@@ -1,82 +1,18 @@
 [
   {
     "id": 1,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
+    "name": "Naruto",
+    "picture": "https://www.nihilist.li/wp-content/uploads/2019/06/Naruto_Part_1.png",
+    "desc": "ninja1",
+    "viewCount": "1376",
+    "watchingHours": "12"
   },
   {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
-  },
-  {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
-  },
-  {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
-  },
-  {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
-  },
-  {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
-  },
-  {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
-  },
-  {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
-  },
-  {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
-  },
-  {
-    "id": ,
-    "name": "",
-    "picture": "",
-    "desc": "",
-    "viewCount": "",
-    "watchingHours": ""
+    "id": 2,
+    "name": "Sasuke",
+    "picture": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest?cb=20180722103521&path-prefix=ru",
+    "desc": "ninja2",
+    "viewCount": "2654",
+    "watchingHours": "34"
   }
 ]
