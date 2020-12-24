@@ -1,31 +1,20 @@
 {
-  "posts": [
+  "catalog": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "sasuke",
+      "picture": "https://i.pinimg.com/originals/b5/3b/fa/b53bfaf1484ecf7634a397007039257e.jpg",
+      "desc": "ninja1",
+      "viewcount": 1245,
+      "watchinghours": 12
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "name": "naruto",
+      "picture": "https://www.nihilist.li/wp-content/uploads/2019/06/Naruto_Part_1.png",
+      "desc": "ninja2",
+      "viewcount": 1377,
+      "watchinghours": 6
+    }   
+  ]
 }
