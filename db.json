@@ -8,7 +8,7 @@
       "viewcount": 1245,
       "watchinghours": 12,
       "type": "Сериал",
-      "watchtype:" "Озвучка"
+      "watchtype:" "Озвучка",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
       "id": 2,
@@ -18,7 +18,7 @@
       "viewcount": 2874,
       "watchinghours": 5,
       "type": "Фильм",
-      "watchtype:" "Субтитры"
+      "watchtype:" "Субтитры",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
     },
       "id": 3,
@@ -28,7 +28,7 @@
       "viewcount": 3409,
       "watchinghours": 10,
       "type": "Сериал",
-      "watchtype:" "Озвучка"
+      "watchtype:" "Озвучка",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
       "id": 4,
@@ -38,7 +38,7 @@
       "viewcount": 1670,
       "watchinghours": 12,
       "type": "Сериал",
-      "watchtype:" "Озвучка"
+      "watchtype:" "Озвучка",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
     },
       "id": 5,
@@ -48,7 +48,7 @@
       "viewcount": 1245,
       "watchinghours": 2,
       "type": "Фильм",
-      "watchtype:" "Озвучка"
+      "watchtype:" "Озвучка",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
       "id": 6,
@@ -58,7 +58,7 @@
       "viewcount": 8465,
       "watchinghours": 96,
       "type": "Сериал",
-      "watchtype:" "Субтитры"
+      "watchtype:" "Субтитры",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
     },
       "id": 7,
@@ -68,7 +68,7 @@
       "viewcount": 1278,
       "watchinghours": 12,
       "type": "Фильм",
-      "watchtype:" "Озвучка"
+      "watchtype:" "Озвучка",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
       "id": 8,
@@ -78,7 +78,7 @@
       "viewcount": 1337,
       "watchinghours": 5,
       "type": "Сериал",
-      "watchtype:" "Озвучка"
+      "watchtype:" "Озвучка",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
     },
       "id": 9,
@@ -88,7 +88,7 @@
       "viewcount": 1488,
       "watchinghours": 12,
       "type": "Фильм",
-      "watchtype:" "Субтитры"
+      "watchtype:" "Субтитры",
       "videourl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     }    
   ]
